@@ -6,6 +6,8 @@ public class CreateQuote {
 
 	{
 		System.out.println("Create_Quote");
+		
+		System.out.println("Update Quote");
 	}
 
 }
