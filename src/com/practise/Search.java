@@ -33,7 +33,7 @@ public class Search
 
         System.out.println("Is " + key
                            + " present in the array: "
-                           + res);
+                           + res + "123");
         
     }
 }
