@@ -7,6 +7,6 @@ public class Milky {
 
 	{
 		System.out.println("Milky java developer");
-		
+		System.out.println("Test");
 	}
 }
