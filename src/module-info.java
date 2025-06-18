@@ -4,5 +4,5 @@
 /**
  * 
  */
-module GitPractise {
+module Git {
 }
